@@ -1,4 +1,7 @@
-# test coverage for  [css-loader (v0.28.0)](https://github.com/webpack/css-loader#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-css-loader.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-css-loader) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-css-loader.svg)](https://travis-ci.org/npmtest/node-npmtest-css-loader)
+# npmtest-css-loader
+
+#### test coverage for  [css-loader (v0.28.0)](https://github.com/webpack/css-loader#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-css-loader.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-css-loader) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-css-loader.svg)](https://travis-ci.org/npmtest/node-npmtest-css-loader)
+
 #### css loader module for webpack
 
 [![NPM](https://nodei.co/npm/css-loader.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/css-loader)
